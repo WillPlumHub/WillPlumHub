@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WillPlumHub
+- 👀 I’m interested in developing video games
+- 🌱 I’m currently studying computer science at Vancouver Island University (VIU)
+- 💞️ I’m looking to collaborate on projects regarding video game development (preferably using the Unity game engine), and any other interesting programs
+- 📫 How to reach me willplum01@gmail.com
